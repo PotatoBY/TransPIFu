@@ -1,0 +1,3 @@
+/mnt/data/Project/Geo-PIFu-master/voxelizer/build/CMakeFiles/rebuild_cache.dir
+/mnt/data/Project/Geo-PIFu-master/voxelizer/build/CMakeFiles/edit_cache.dir
+/mnt/data/Project/Geo-PIFu-master/voxelizer/build/CMakeFiles/voxelizer.dir

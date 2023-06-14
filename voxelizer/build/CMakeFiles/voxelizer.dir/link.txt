@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++0x -std=c++11 -O3 -ffast-math -Wall  -rdynamic CMakeFiles/voxelizer.dir/main.cpp.o CMakeFiles/voxelizer.dir/voxelizer_generated_main.cu.o  -o bin/voxelizer  /usr/local/cuda-11.1/lib64/libcudart_static.a -lpthread -ldl -lrt 
